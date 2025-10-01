@@ -5,6 +5,7 @@ A snapshot of my journey in **Data Science, SDE, & AI/ML**, showing skills, cert
 
 
 <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" width="800" height ="400"/>
+
 ---
 
 ## 🌟 About Me
