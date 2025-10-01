@@ -54,4 +54,4 @@ A snapshot of my journey in **Data Science, SDE, & AI/ML**, showing skills, cert
 Add a fun or thematic GIF/banner to make it more expressive. Example:
 
 ```markdown
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" width="300"/>
