@@ -2,6 +2,8 @@
 
 Welcome to my GitHub portfolio 👋  
 A snapshot of my journey in **Data Science, SDE, & AI/ML**, showing skills, certifications, and key projects.
+
+
 <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" width="300"/>
 ---
 
