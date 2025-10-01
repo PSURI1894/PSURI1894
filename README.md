@@ -12,7 +12,7 @@ A snapshot of my journey in **Data Science, SDE, & AI/ML**, showing skills, cert
 - 🎓 B.Tech CSE (Data Science) @ VIT Vellore (2022–2026)  
 - 💼 Ex Data Scientist Intern @ Li & Fung  
 - 💻 Ex Frontend Developer Intern @ Aarvasa & Softwave Solutions  
-- 🔍 Interested in **Data Analytics, Machine Learning, AI Applications, Full Stack Dev**  
+- 🔍 Interested in **Data Science, Machine Learning, AI Applications, Software Development**  
 
 ---
 
