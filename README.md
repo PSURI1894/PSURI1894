@@ -1,4 +1,4 @@
-# 🚀 Parth Suri — GitHub Portfolio (PSURI1894)
+# 🚀 Parth Suri - GitHub Portfolio (PSURI1894)
 
 Welcome to my GitHub portfolio 👋  
 A snapshot of my journey in **Data Science, SDE, & AI/ML**, showing skills, certifications, and key projects.
