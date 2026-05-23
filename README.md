@@ -28,73 +28,141 @@
 
 ---
 
-## 🌟 About Me
+## 🛠️ Skills
 
-I am a highly driven **Computer Science & Engineering (Data Science)** undergraduate at **VIT Vellore** (Class of 2026). My background spans across data science, machine learning models, modern web technologies, and generative AI solutions.
+A snapshot of my technical, analytical, and leadership skills across data science, machine learning, quant, and engineering.
 
-- 🎓 **Academic Journey:** B.Tech in CSE with a specialization in Data Science @ **VIT Vellore** (2022–2026)
-- 💼 **Professional Experience:**
-  - **Ex-Data Scientist Intern** @ *Li & Fung* — Leveraged advanced analytics, exploratory data analysis, and predictive modeling in global supply chain contexts.
-  - **Ex-Frontend Developer Intern** @ *Aarvasa* & *Softwave Solutions* — Engineered highly responsive, intuitive user interfaces and improved overall user experiences.
-- 🎯 **Current Focus:** Deepening expertise in quantitative analysis, generative AI applications, high-performance web backends, and full-stack software development (SDE).
+### 💻 Languages
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/JAVA-F8981D?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />&nbsp;
+  <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
-## 🛠 Tech Stack & Toolkit
+### ⚙️ Frameworks, Libraries & Databases
 
-<table style="width: 100%; display: table;" width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
-      <h4>💻 Languages & Web</h4>
-      <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-      <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></a>
-      <a href="https://www.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
-      <h4>📊 Data Science & ML</h4>
-      <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-      <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
-      <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></a>
-      <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /></a>
-      <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI, NLP & Prompting</h4>
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6C37?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
-      <img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=flat-square&logo=google-cloud&logoColor=white" alt="Generative AI" />
-      <img src="https://img.shields.io/badge/LLM%20Frameworks-3B82F6?style=flat-square&logo=huggingface&logoColor=white" alt="LLMs" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
-      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>
-      <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /></a>
-      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 UI & Styling</h4>
-      <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-      <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Dev Tools & Environments</h4>
-      <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-      <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-      <a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
+  <img src="https://img.shields.io/badge/THREEJS-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS" />&nbsp;
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />&nbsp;
+  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />&nbsp;
+  <img src="https://img.shields.io/badge/JINJA-B41711?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />&nbsp;
+  <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />&nbsp;
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />&nbsp;
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />&nbsp;
+  <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />&nbsp;
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
+  <img src="https://img.shields.io/badge/APOLLO_GRAPHQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="ApolloGraphQL" />&nbsp;
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />&nbsp;
+  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />&nbsp;
+  <img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />&nbsp;
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/POSTGRES-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />&nbsp;
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=A78BFA" alt="Firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### 🎨 Designing & Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ADOBE_AFTER_EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />&nbsp;
+  <img src="https://img.shields.io/badge/ADOBE_INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />&nbsp;
+  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />&nbsp;
+  <img src="https://img.shields.io/badge/ADOBE_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />&nbsp;
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />&nbsp;
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
+  <img src="https://img.shields.io/badge/TABLEAU-EAEAEA?style=for-the-badge&logo=tableau&logoColor=black" alt="Tableau" />&nbsp;
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+### 🔍 Specialized Skills Matrix
+
+<details>
+  <summary><strong>📊 Machine Learning, NLP & AI Solutions</strong></summary>
+  <ul>
+    <li>Machine Learning & Deep Learning Models</li>
+    <li>Generative AI & LLM Frameworks</li>
+    <li>Natural Language Processing (NLP) & Text Classification</li>
+    <li>Computer Vision & Image Analysis</li>
+    <li>Chatbot Development & Intelligent Conversational Agents</li>
+    <li>Logistic Regression, Random Forests, Gradient Boosting / XGBoost</li>
+    <li>Object-Oriented Programming (OOP) & Computer Ethics</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>📈 Quantitative Finance & Analytics</strong></summary>
+  <ul>
+    <li>Time Series Analysis (ARIMA, GARCH)</li>
+    <li>Value-at-Risk (VaR) & Credit Risk Modelling</li>
+    <li>Investment Strategies & Portfolio Analytics</li>
+    <li>Financial Analysis, Modeling & Valuation</li>
+    <li>Retail Sales Analysis & Demand Forecasting</li>
+    <li>Business Analytics & Decision Science</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🧪 Data Engineering, Preprocessing & Operations</strong></summary>
+  <ul>
+    <li>Data Preprocessing, Cleaning & Formatting</li>
+    <li>Feature Engineering & Feature Selection Techniques</li>
+    <li>Imbalanced Data Handling (SMOTE)</li>
+    <li>Scaling, Normalization & Regularization (L1/L2)</li>
+    <li>Exploratory Data Analysis (EDA) & Data Visualization</li>
+    <li>Hadoop, Apache Spark, Docker & Linux Environments</li>
+    <li>Git / Version Control & AWS Cloud Deployments</li>
+    <li>VBA / Macros & Advanced Excel Workflows</li>
+    <li>OrCAD Capture CIS & Blockchain Engineering</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🔬 Statistical Inference & Model Deployment</strong></summary>
+  <ul>
+    <li>A/B Testing & Hypothesis Testing</li>
+    <li>Bayesian Inference & Statistical Modelling</li>
+    <li>Cross-Validation & Hyperparameter Tuning (Grid/Random/Bayesian)</li>
+    <li>Model Evaluation Metrics & Validation Schemes</li>
+    <li>Model Interpretation & Explainability (SHAP, LIME)</li>
+    <li>Model Monitoring, Drift Detection & Production Maintenance</li>
+    <li>Model Deployment & REST API Integrations</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💼 Leadership, Business & Soft Skills</strong></summary>
+  <ul>
+    <li>Business Understanding & Domain Translation</li>
+    <li>Hypothesis Framing & Problem Structuring</li>
+    <li>Client Communication & Stakeholder Management</li>
+    <li>Team Management & Cross-functional Collaboration</li>
+    <li>Strategic Decision-Making & Public Speaking</li>
+    <li>Event Management, Editorial Coordination & UI/UX Design</li>
+  </ul>
+</details>
 
 ---
 
