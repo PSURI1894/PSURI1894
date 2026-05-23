@@ -45,6 +45,7 @@ I am a highly driven **Computer Science & Engineering (Data Science)** undergrad
 <table style="width: 100%; display: table;" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
       <h4>💻 Languages & Web</h4>
       <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></a>
@@ -54,6 +55,7 @@ I am a highly driven **Computer Science & Engineering (Data Science)** undergrad
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
     </td>
     <td width="50%" valign="top">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
       <h4>📊 Data Science & ML</h4>
       <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
       <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
@@ -106,18 +108,21 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
   <!-- ROW 1: Core SDE -->
   <tr>
     <td width="33.3%" align="center" valign="middle" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="300" height="1" alt="" /><br />
       <a href="https://github.com/PSURI1894?tab=repositories&q=full-stack" target="_blank" style="text-decoration: none;">
         <h3>🌐 Full Stack</h3>
         <p style="font-size: 13px; color: #58a6ff; margin: 5px 0 0 0;">Explore Projects ↗</p>
       </a>
     </td>
     <td width="33.3%" align="center" valign="middle" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="300" height="1" alt="" /><br />
       <a href="https://github.com/PSURI1894?tab=repositories&q=backend" target="_blank" style="text-decoration: none;">
         <h3>⚙️ Backend</h3>
         <p style="font-size: 13px; color: #58a6ff; margin: 5px 0 0 0;">Explore Projects ↗</p>
       </a>
     </td>
     <td width="33.3%" align="center" valign="middle" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="300" height="1" alt="" /><br />
       <a href="https://github.com/PSURI1894?tab=repositories&q=frontend" target="_blank" style="text-decoration: none;">
         <h3>💻 Frontend</h3>
         <p style="font-size: 13px; color: #58a6ff; margin: 5px 0 0 0;">Explore Projects ↗</p>
@@ -199,9 +204,11 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 <table style="width: 100%; display: table;" width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td width="50%" align="center">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
       <img src="https://github-readme-stats.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
     </td>
     <td width="50%" align="center">
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSURI1894&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages Stats" />
     </td>
   </tr>
