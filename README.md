@@ -1,7 +1,7 @@
-# 🚀 Parth Suri — GitHub Portfolio
+# 🚀 Parth Suri - GitHub Portfolio
 
 <div align="center">
-  <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" width="100%" alt="Aesthetic developer banner" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" height="180" alt="Aesthetic developer banner" />
 </div>
 
 <br />
