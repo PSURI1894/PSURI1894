@@ -1,7 +1,7 @@
-# 🚀 Parth Suri - GitHub Portfolio
+# 🚀 Parth Suri — GitHub Portfolio
 
 <div align="center">
-  <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" height="180" alt="Aesthetic developer banner" />
+  <img src="https://media.giphy.com/media/C8ttJdX3IjQtzlDetE/giphy.gif" style="width: 100%; display: block; border-radius: 8px;" width="100%" alt="Aesthetic developer banner" />
 </div>
 
 <br />
@@ -42,7 +42,7 @@ I am a highly driven **Computer Science & Engineering (Data Science)** undergrad
 
 ## 🛠 Tech Stack & Toolkit
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table style="width: 100%; display: table;" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Languages & Web</h4>
@@ -102,7 +102,7 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 
 <br />
 
-<table width="100%" border="0" cellpadding="8" cellspacing="10">
+<table style="width: 100%; display: table;" width="100%" border="0" cellpadding="8" cellspacing="10">
   <!-- ROW 1: Core SDE -->
   <tr>
     <td width="33.3%" align="center" valign="middle" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
@@ -196,13 +196,16 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 
 ## 📊 GitHub Analytics & Insights
 
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="Parth's GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSURI1894&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages Stats" />
-  </p>
-</div>
+<table style="width: 100%; display: table;" width="100%" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSURI1894&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
