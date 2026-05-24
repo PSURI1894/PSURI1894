@@ -84,19 +84,6 @@ A snapshot of my technical, analytical, and leadership skills across data scienc
   <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 🎨 Designing & Tooling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ADOBE_AFTER_EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />&nbsp;
-  <img src="https://img.shields.io/badge/ADOBE_INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />&nbsp;
-  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />&nbsp;
-  <img src="https://img.shields.io/badge/ADOBE_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />&nbsp;
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />&nbsp;
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
-  <img src="https://img.shields.io/badge/TABLEAU-EAEAEA?style=for-the-badge&logo=tableau&logoColor=black" alt="Tableau" />&nbsp;
-  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
 ### 🔍 Specialized Skills Matrix
 
 <details>
