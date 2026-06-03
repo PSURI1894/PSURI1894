@@ -245,13 +245,20 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 
 ## 📊 GitHub Analytics & Insights
 
+<div align="center">
+  <!-- This line pulls the exact animated 3D block graph your action just generated! -->
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Parth's 3D Contribution Graph" width="100%" />
+</div>
+
+<br />
+
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.shion.dev/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PSURI1894&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSURI1894&theme=tokyonight&hide_border=true" width="100%" alt="Activity Overview Graph" />
     </td>
   </tr>
 </table>
