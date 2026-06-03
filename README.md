@@ -245,15 +245,13 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 
 ## 📊 GitHub Analytics & Insights
 
-<table style="width: 100%; display: table;" width="100%" border="0" cellpadding="0" cellspacing="10">
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td width="50%" align="center">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="460" height="1" alt="" /><br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSURI1894&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSURI1894&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
