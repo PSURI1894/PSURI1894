@@ -248,10 +248,10 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=PSURI1894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Parth's GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=PSURI1894&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PSURI1894&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
