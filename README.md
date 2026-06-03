@@ -13,17 +13,6 @@
   
   <br />
 
-  <a href="https://linkedin.com/in/PSURI1894" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:parthsuri.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/PSURI1894" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
@@ -279,11 +268,11 @@ I am always excited to discuss new projects, open-source ideas, or professional 
 
 <div align="center">
   <p>
-    <a href="mailto:parthsuri.work@gmail.com" target="_blank">
+    <a href="mailto:parthsuri009k@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/PSURI1894" target="_blank">
+    <a href="https://www.linkedin.com/in/parth-suri-150a96251/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
@@ -296,8 +285,7 @@ I am always excited to discuss new projects, open-source ideas, or professional 
 
   <!-- Real-time GitHub Profile Stats Badges -->
   <p>
-    <img src="https://img.shields.io/github/followers/PSURI1894?style=flat-square&label=Followers&color=0077B5&logo=github" alt="Followers" />
-    &nbsp;&nbsp;
-    <img src="https://api.visitorbadge.io/api/visitors?path=PSURI1894&label=Profile%20Stats&countColor=%230077B5&style=flat-square" alt="Profile Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Parth's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages Stats" width="48%" />
   </p>
 </div>
