@@ -14,11 +14,23 @@
   <br />
 
 </div>
+</div>
 <div align="center">
-  <h3>🧑‍💻 My LeetCode Journey</h3>
+  <h3>🧑‍💻 Competitive Programming & Coding Profiles</h3>
   <p>
+    <!-- LeetCode -->
     <a href="https://leetcode.com/u/PS1894/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    </a>
+    &nbsp;&nbsp;
+    <!-- CodeChef -->
+    <a href="https://www.codechef.com/users/parthsuri009" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-Profile-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+    </a>
+    &nbsp;&nbsp;
+    <!-- Codeforces -->
+    <a href="https://codeforces.com/profile/PSURI1894" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
     </a>
   </p>
 </div>
