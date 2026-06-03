@@ -14,7 +14,14 @@
   <br />
 
 </div>
-
+<div align="center">
+  <h3>🧑‍💻 My LeetCode Journey</h3>
+  <p>
+    <a href="https://leetcode.com/u/PS1894/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    </a>
+  </p>
+</div>
 ---
 
 ## 🛠️ Skills
@@ -244,12 +251,6 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 ---
 
 ## 📊 GitHub Analytics & Insights
-<div align="center">
-  <p>
-    <a href="https://leetcode.com/u/PS1894/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-    </a>
-  </p>
 <div align="center">
   <!-- This line pulls the exact animated 3D block graph your action just generated! -->
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="Parth's 3D Contribution Graph" width="100%" />
