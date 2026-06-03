@@ -287,10 +287,4 @@ I am always excited to discuss new projects, open-source ideas, or professional 
   </p>
   
   <br />
-
-  <!-- Real-time GitHub Profile Stats Badges -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Parth's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages Stats" width="48%" />
-  </p>
 </div>
