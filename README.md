@@ -245,7 +245,7 @@ Explore my technical ecosystem structured across diverse domains. **Click on any
 
 ## 📊 GitHub Analytics & Insights
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=PS1894&theme=Dark" alt="LeetCode Stats" width="45%" />
+  <img src="https://leetcode.svg.nodeapi.xyz/client-ps1894.svg?animation=true" alt="LeetCode Stats" width="60%" />
 </div>
 <div align="center">
   <!-- This line pulls the exact animated 3D block graph your action just generated! -->
